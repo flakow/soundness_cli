@@ -27,7 +27,8 @@
 
 2-1 CLIQUE EM "NEW CODE ESPACES" E CONFIGURE O CODESPACES ASSIM:
 
-<img width="954" height="552" alt="image" src="https://github.com/user-attachments/assets/d7f86174-0bf6-4690-8072-e6e5da64af3e" />
+<img width="882" height="519" alt="image" src="https://github.com/user-attachments/assets/5441952b-1e22-4b19-8e94-c87c5ee7ea81" />
+
 
 2.2-DEPOIS CLIQUE EM "CREATE CODESPACES"
 
