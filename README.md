@@ -10,7 +10,7 @@
 
 3- PRA QUEM NÃO POSSUI O Mnemonic É PRECISO GERAR UMA NOVA KEY, SENDO ASSIM ATUALIZAREI O TUTORIAL POSTERIORMENTE CONFORME DEMANDA.
 
-#CONFIGURAÇÃO DO CLI:
+# CONFIGURAÇÃO DO CLI:
 
 1- CRIE O REPOSITORIO NO SEU GITHUB CLICANDO EM NEW
 
@@ -91,7 +91,9 @@ soundness-cli import-key --name my-key --mnemonic "SUA FRASE SECRETA AQUI"
 OBS: 
 
 1- EM --name my-key utilize o nome da sua key que vc salvou, caso nao tenha salvado o nome utilize my-key
+
 2 - se ocorrer tudo certo ao fazer o upload da key, vai pedir a senha é so por a mesma senha 2x
+
 3- vale lembrar que sua frase secreta tem entre 12/16/18/24 palavras e voce vai colar entre as aspas onde esta escrito "SUA FRASE SECRETA AQUI"
 
 
