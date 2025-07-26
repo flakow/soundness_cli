@@ -16,18 +16,22 @@
 
 <img width="318" height="50" alt="image" src="https://github.com/user-attachments/assets/c421acf0-12fb-4eb1-b705-beaec5f96219" />
 
+
 1.1 - CONFIGURE O REPOSITORIO DA SEGUINTE FORMA E CLIQUE EM "CREATE REPOSITORY"
 
 <img width="764" height="816" alt="image" src="https://github.com/user-attachments/assets/f0315376-310d-4a0c-ad89-14ed07370fb4" />
+
 
 2- VA ATE OS 4 PONTOS NA PARTE SUPERIOR E CLIQUE EM "CODESPACES"
 
 <img width="322" height="315" alt="image" src="https://github.com/user-attachments/assets/2c652e75-e380-49e3-9193-b47d394d3672" />
 
 
+
 2-1 CLIQUE EM "NEW CODE ESPACES" E CONFIGURE O CODESPACES ASSIM:
 
 <img width="882" height="519" alt="image" src="https://github.com/user-attachments/assets/5441952b-1e22-4b19-8e94-c87c5ee7ea81" />
+
 
 
 2.2-DEPOIS CLIQUE EM "CREATE CODESPACES"
