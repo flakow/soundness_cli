@@ -109,7 +109,7 @@ OBS:
 
 <img width="541" height="710" alt="image" src="https://github.com/user-attachments/assets/6aa2e2c7-e0f3-44fb-9994-158754de5422" />
 
-1 - É SÓ COPIAR O CODIGO E ALTERAR ONDE ESTA ESCRITO <your-key-name> POR my-key FICANDO ASSIM:
+1 - É SÓ COPIAR O CODIGO E ALTERAR ONDE ESTA ESCRITO " <your-key-name> " POR my-key FICANDO ASSIM:
 
 <img width="1449" height="231" alt="image" src="https://github.com/user-attachments/assets/399c7cd8-56b4-4d36-9a6b-23fb12827597" />
 
